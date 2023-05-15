@@ -2,8 +2,8 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 12.9 (Ubuntu 12.9-2.pgdg20.04+1)
--- Dumped by pg_dump version 12.9 (Ubuntu 12.9-2.pgdg20.04+1)
+-- Dumped from database version 12.6 (Debian 12.6-1.pgdg90+1)
+-- Dumped by pg_dump version 12.6 (Debian 12.6-1.pgdg90+1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -16,7 +16,7 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
-DROP DATABASE students;
+DROP DATABASE IF EXISTS students;
 --
 -- Name: students; Type: DATABASE; Schema: -; Owner: freecodecamp
 --
@@ -368,4 +368,3 @@ ALTER TABLE ONLY public.students
 --
 -- PostgreSQL database dump complete
 --
-
