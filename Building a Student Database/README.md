@@ -2,8 +2,8 @@ This file includes the solutions for both Part 1 and Part 2 of the "Learn SQL by
 
 Learning Objectives:
 
-Acquire knowledge of SQL, also known as Structured Query Language, for effective communication with a relational database and the ability to utilize its commands for combining information from multiple tables within the database.
-Develop a Bash script that utilizes SQL to input data related to computer science students into PostgreSQL.
+- Acquire knowledge of SQL, also known as Structured Query Language, for effective communication with a relational database and the ability to utilize its commands for combining information from multiple tables within the database.
+- Develop a Bash script that utilizes SQL to input data related to computer science students into PostgreSQL.
 
 preview:
 
